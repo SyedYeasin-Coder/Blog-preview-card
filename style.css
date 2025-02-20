@@ -28,7 +28,7 @@ body {
     border-radius: 1rem;
     padding: 2rem;
     box-shadow: 10px 10px 0px 0px hsl(0, 0%, 0%);
-    transition: box-shadow 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 .display-img{
     border-radius: 0.6rem;
